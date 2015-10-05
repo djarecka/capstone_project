@@ -1,1 +1,1 @@
-This is the presentation used in the first video.
+This is work in progress - you will find the code used for the capstone project soon
